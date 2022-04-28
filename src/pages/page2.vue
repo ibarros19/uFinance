@@ -12,7 +12,9 @@ const normal = 123
 </script>
 
 <template>
-  <h1>Page2</h1>
+  <h1>Page2
+    <h2>This is a github test</h2>
+  </h1>
 
   <p>
     {{normal}}
